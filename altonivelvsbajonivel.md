@@ -24,5 +24,5 @@ Para ilustrar lo tonta que es esta discusión se me ha ocurrido el siguiente eje
 5. El físico lo estudia, encuentra el error, y lo soluciona.  :electron:
 6. Ahora bien, el físico va tranquilamente al día siguiente a su trabajo y se le rompe el coche, ¿a quién se lo va a llevar?, pues al mecánico.
 
-> No por saber cómo funcionan las bases de algo, vas a saber sacar todo su potencial, pero entenderás mejor por qué pasan las cosas.
+> *"No por saber cómo funcionan las bases de algo, vas a saber sacar todo su potencial, pero entenderás mejor por qué pasan las cosas."*
 
