@@ -19,10 +19,9 @@ Pues ahí esta la discusión, unos dicen que en alto nivel no tienen ni idea de 
 Para ilustrar lo tonta que es esta discusión se me ha ocurrido el siguiente ejemplo:  
 1. Imagínate que un día se te rompe el coche, ¿a quién preguntas?, pues al mecánico. :car:  
 2. El mecánico sabe arreglar el coche, pero no ha diseñado las piezas, así que ¿a quién le pregunta acerca de la pieza que se ha roto?, pues al ingeniero que la ha diseñado.:wrench:  
-3. Ahora el ingeniero, revisa la pieza, pero no tiene ni idea de por qué el material del que estaba hecha la pieza se ha roto, ¿a quién pregunta?, pues al químico que ha hecho el material.  
-4. Ahora el químico revisando las fórmulas no ve de ninguna manera como eso ha podido pasar, así que, ¿a quién le pregunta por qué esos compuestos han funcionado de manera diferente?, pues al físico que ha estudiado los elementos.:scroll:  
-5. El físico lo estudia, encuentra el error, y lo soluciona.  :electron:
-6. Ahora bien, el físico va tranquilamente al día siguiente a su trabajo y se le rompe el coche, ¿a quién se lo va a llevar?, pues al mecánico.
+3. Ahora el ingeniero, revisa la pieza, pero no tiene ni idea de por qué el material del que estaba hecha la pieza se ha roto, ¿a quién pregunta?, pues al fisico que estuda las propiedades de la materia. :electron:  
+4. El físico lo estudia, encuentra el error, y lo soluciona.  
+5. Ahora bien, el físico va tranquilamente al día siguiente a su trabajo y se le rompe el coche, ¿a quién se lo va a llevar?, pues al mecánico.
 
 > *"No por saber cómo funcionan las bases de algo, vas a saber sacar todo su potencial, pero entenderás mejor por qué pasan las cosas."*
 
